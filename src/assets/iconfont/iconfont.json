@@ -1,0 +1,107 @@
+{
+  "id": "1530779",
+  "name": "q'q",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "887857",
+      "name": "暂停",
+      "font_class": "zanting1",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "989480",
+      "name": "暂停",
+      "font_class": "iconstop",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "1336382",
+      "name": "暂停",
+      "font_class": "plus-pause",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "1473537",
+      "name": "音乐",
+      "font_class": "yinyue",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "1488913",
+      "name": "快进",
+      "font_class": "kuaijin",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "1527856",
+      "name": "喜欢",
+      "font_class": "xihuan",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "1603690",
+      "name": "快退",
+      "font_class": "kuaitui",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "2678659",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "3900173",
+      "name": "奖杯",
+      "font_class": "jiangbei",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "6204091",
+      "name": "关  闭",
+      "font_class": "guanbi",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "6264196",
+      "name": "喜欢",
+      "font_class": "xihuan1",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "6956935",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "7587956",
+      "name": "垃圾桶",
+      "font_class": "lajitong",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "9512663",
+      "name": "奖杯",
+      "font_class": "trophy-fill",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    }
+  ]
+}
